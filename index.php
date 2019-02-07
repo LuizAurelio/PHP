@@ -1,7 +1,8 @@
 <?php
 
+<<<<<<< HEAD
 	echo "Olá Mundo!";
 
-	echo "Ola Udemy! 2
+	echo "Ola Udemy e Hcode!
 
 ?>
